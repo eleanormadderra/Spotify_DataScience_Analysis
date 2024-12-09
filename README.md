@@ -1,5 +1,5 @@
 # Orientation
-The project proposal document and the project report document are in the Document folder. 
+The project proposal document and the project report document are in the Document folder. The models and figures were created in the final_notebook_group_4_v2.ipynb file, but all resulst and images can also be found in the project report document. 
 
 # To Run Notebook
 Download the Spotify dataset from the link below. Make sure it is in the same directory as the .ipynb file and not a subdirectory. You may need a Jupyter Notebook setup to run the file. Any additional directions can be found at the top of the Notebook file. 
