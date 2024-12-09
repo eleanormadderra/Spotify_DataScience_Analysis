@@ -1,9 +1,10 @@
+# To Run Notebook
+Download the Spotify dataset from the link below. Make sure it is in the same directory as the .ipynb file and not a subdirectory. You may need a Jupyter Notebook setup to run the file. Any additional directions can be found at the top of the Notebook file. 
+
 # Description of Dataset
 https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs <br>
 This dataset contains information about 28,356 songs on Spotify that are in playlists that are reported to be 5 different genres (pop, r&b, latin, rap, and edm). 
 We want to be able to predict the genre of a playlist a song is in based on data about the song including danceability, energy, key, loudness, speechiness, acousticness, instrumentalness, valence, and tempo. These variables are described below. 
-
-
 
 # Exploratory Data Analytics
 ## Variables:
