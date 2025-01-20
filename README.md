@@ -1,4 +1,6 @@
 # Orientation
+Throughout this project, we created multiple models to analyze a Spotify dataset and predict playlist genre. The dataset was downloaded from Kaggle (https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs).
+
 The project proposal document and the project report document are in the Document folder. The models and figures were created in the final_notebook_group_4_v2.ipynb file, but all results and images can also be found in the project report document. 
 
 # To Run Notebook
